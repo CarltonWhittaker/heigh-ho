@@ -1,0 +1,21 @@
+.masthead-intro,
+.masthead-heading
+{
+   text-align: center;
+}
+.masthead-heading{
+  text-align: center;
+} 
+.masthead{
+  padding: 6em 0em ;
+  
+}
+.masthead-intro{
+  margin-bottom: 0.1em;
+}
+ .masthead-heading{
+   margin-top: -0.2em;
+ }
+.masthead{ 
+  background-image: url('http://i.photobucket.com/Tunnel.jpg');
+}
